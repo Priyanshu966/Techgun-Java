@@ -1,0 +1,26 @@
+#sec1{
+    height:600px;
+    width:100%;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    border:2px solid black;
+}
+#sec2{
+    height:200px;
+    width:800px;
+    border:2px solid black;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:rgb(61, 61, 201);
+}
+#sp1{
+    display: inline-block;
+    margin:0 10px;
+    font-size:20px;
+}
+label{
+    display:block;
+    text-align:center;
+}
