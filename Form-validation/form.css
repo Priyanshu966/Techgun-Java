@@ -1,0 +1,47 @@
+body{
+    background:#3498db;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+h1{
+    font-size:20px;
+    margin-top:30px;
+}
+form{
+    background:white;
+    width:fit-content;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-flow:column;
+}
+.input0{
+    width:200px;
+    height:35px;
+    margin:10px 60px;
+}
+input[type="submit"]{
+    background:#3498db;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:200px;
+    height:35px;
+    margin-bottom:40px;
+}
+#p1{
+    color:red;
+    margin:0px;
+    text-align:left;
+    margin-top:-5px;
+}
+#p2{
+    color:red;
+    margin:0px;
+    text-align:left;
+    margin-top:-5px;
+    margin-bottom:10px;
+}
